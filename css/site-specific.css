@@ -9,7 +9,7 @@ div.title{
 }
 
 h1{
-  color: #e2e2e2;
+  color: #505660;
     font-weight: 400;
     font-size: 2.5em;
     max-width: 800px;
@@ -87,11 +87,11 @@ p.bioText{
 }
 
 p.bioText > a{
-    color: #e2e2e2;
+    color: #5050660;
 }
 
 p.bioText > a:hover{
-    background-color: #e2e2e2; 
+    background-color: #505660; 
 }
 
 div.linkList{
@@ -112,5 +112,5 @@ li.assignmentLink > a{
 }
 
 li.assignmentLink > a:hover{
-    background-color: #FFFF00; 
+    background-color: #505660; 
 }
