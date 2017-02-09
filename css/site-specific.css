@@ -9,7 +9,7 @@ div.title{
 }
 
 h1{
-  color: #505660;
+  color: #8fb1e8;
     font-weight: 400;
     font-size: 2.5em;
     max-width: 800px;
@@ -75,7 +75,7 @@ div.bio{
 }
 
 img.bioImage{
-    width: 40%;
+    width: 100%;
     margin: auto;
     display: block;
 }
@@ -87,11 +87,11 @@ p.bioText{
 }
 
 p.bioText > a{
-    color: #505660;
+    color: #5879ad;
 }
 
 p.bioText > a:hover{
-    background-color: #505660; 
+    background-color: #1d2e49; 
 }
 
 div.linkList{
@@ -112,6 +112,6 @@ li.assignmentLink > a{
 }
 
 li.assignmentLink > a:hover{
-    background-color: #505660; 
+    background-color: #1d2e49; 
 }
 
