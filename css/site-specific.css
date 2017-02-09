@@ -39,7 +39,7 @@ h4{
   font-size: 1.25em;
     font-weight: 300;
     max-width: 800px;
-    text-align: left;
+    text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
@@ -50,7 +50,7 @@ h5{
   font-size: 1.25em;
     font-weight: 300;
     max-width: 800px;
-    text-align: left;
+    text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
@@ -61,7 +61,7 @@ h6{
   font-size: 1.25em;
     font-weight: 300;
     max-width: 800px;
-    text-align: left;
+    text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
@@ -87,7 +87,7 @@ p.bioText{
 }
 
 p.bioText > a{
-    color: #5050660;
+    color: #505660;
 }
 
 p.bioText > a:hover{
