@@ -1,5 +1,5 @@
 var apiKey = 'df17ad158355ea6ff93024953ae062a5';
-var baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=';
+var baseURL = 'https://api.openweathermap.org/data/2.5/weather?q=';
 var city;
 var units = 'imperial';
 var weatherData;
